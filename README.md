@@ -1,4 +1,5 @@
-jobs
+Jobs at Spotistic
 ====
 
-Our job offers
+Our job offers:
+- Web-app Engineering (Internship)
